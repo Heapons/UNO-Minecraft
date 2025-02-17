@@ -1,0 +1,16 @@
+{
+  "model": {
+    "type": "model",
+    "model": "uno:card/generic",
+    "tints": [
+      {
+        "type": "dye",
+        "default": 1908001
+      },
+      {
+        "type": "constant",
+        "value": 16777215
+      }
+    ]
+  }
+}

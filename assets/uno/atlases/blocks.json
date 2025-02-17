@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "prefix": "card/",
+      "source": "card"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "uno:card/base",
+    "layer1": "uno:card/overlay"
+  }
+}
