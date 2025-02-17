@@ -5,7 +5,11 @@
     "tints": [
       {
         "type": "dye",
-        "default": 1908001
+        "default": [
+          0.2,
+          0.2,
+          0.3
+        ]
       },
       {
         "type": "constant",
